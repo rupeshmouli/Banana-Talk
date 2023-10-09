@@ -1,0 +1,42 @@
+textarea
+{
+    height: 20vh;
+    width: 50%;
+    padding: 1rem;
+    margin: auto;
+    display: block;
+}
+button
+{
+   
+    display: block;
+    margin: 2rem auto;
+}
+nav{
+    background-color: bisque;
+    padding: 3rem;
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.de
+{    padding: 1rem;
+     font-size: large;
+     text-align: center;
+}
+
+footer{
+    background-color: bisque;
+    padding: 3rem;
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+#translate-output
+{
+    border: .5rex solid;
+    padding: 2rex;
+    height: 20vh;
+    width: 50%;
+    margin: 2rex auto;
+}
